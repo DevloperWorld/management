@@ -1,0 +1,5 @@
+nl\amis\demo\services\books_service\BooksServiceApplication.class
+nl\amis\demo\services\books_service\presentation\BookController.class
+nl\amis\demo\services\books_service\domain\Book.class
+nl\amis\demo\services\books_service\infrastructure\persistence\BookRepository.class
+nl\amis\demo\services\books_service\application\BookService.class
